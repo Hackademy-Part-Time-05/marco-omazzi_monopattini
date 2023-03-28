@@ -1,5 +1,5 @@
 <x-main>
-      <main>
+      <main class="h-100">
         <div class="container-fluid p-5">
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-12 d-flex align-items-center">

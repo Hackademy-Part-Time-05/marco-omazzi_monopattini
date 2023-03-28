@@ -1,12 +1,10 @@
-html,body{ height: 100%; margin: 0; padding: 0; }
 
-.footer {
-    position:absolute;
-    bottom:0;
-    left:0;
-    width:100%;
-    }
 
+button.buttonCompra{
+    text-decoration: none;
+
+
+}
 #footer{
     height:200px;
 background-color: #212529;
@@ -68,3 +66,9 @@ background-color: #212529;
 {
     display: flex;
 }
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
