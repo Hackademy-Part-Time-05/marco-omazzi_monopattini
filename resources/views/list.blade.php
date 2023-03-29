@@ -2,13 +2,13 @@
 
      <section>
 
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                
                @foreach ($lista as $prodotto )
                    
                
-                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="box card">
                         <div class="box cardImg">
                             <img src="{{$prodotto['image']}}" alt="...">
